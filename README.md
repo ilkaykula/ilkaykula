@@ -6,7 +6,7 @@ Ben **İlkay Kula**, teknoloji ve tasarım alanındaki bilgi birikimimle sizlere
 - 🌍 **Konum**: Türkiye
 - 🎓 **Eğitim**: Yazılım
 - 💻 **Becerilerim**:
-  - **Web Geliştirme**: HTML, CSS, JavaScript, PHP
+  - **Web Geliştirme**
   - **Yapay Zeka**: Makine öğrenimi ve derin öğrenme üzerine kendimi geliştiriyorum.
   - **Tasarım**: Estetik ve kullanıcı dostu tasarımlar oluşturmayı seviyorum.
 - 🎯 **Hedeflerim**:
