@@ -12,7 +12,7 @@ Ben **İlkay Kula**, teknoloji ve tasarım alanındaki bilgi birikimimle sizlere
 - 🎯 **Hedeflerim**:
   - Yapay zeka alanında daha fazla proje geliştirmek
   - Yeni teknolojilere ayak uydurmak ve sürekli kendimi geliştirmek
-- 🌐 **Kişisel Web Sitesi**: [ilkaykula.com.tr](https://ilkaykula.com.tr)
+- 🌐 **Kişisel Web Sitesi**: [ilkaykula.com](https://ilkaykula.com)
 
 ## 🛠️ Çalışmalarım
 - **Web Geliştirme Projeleri**
@@ -22,7 +22,7 @@ Ben **İlkay Kula**, teknoloji ve tasarım alanındaki bilgi birikimimle sizlere
 ## 📫 Bana Ulaşın
 - 📧 **E-posta**: [info@ilkaykula.com.tr](mailto:bilgi@ilkaykula.com.tr)
 - 📱 **Telefon**: +90 539 631 9015
-- 💼 **LinkedIn**: [LinkedIn Profilim](#) *(varsa eklenebilir)*
+- 💼 **LinkedIn**: [LinkedIn Profilim](#) 
 
 Her zaman yeni projelerde çalışmak ve işbirlikleri yapmak için açık biriyim. İletişime geçmekten çekinmeyin!
 
